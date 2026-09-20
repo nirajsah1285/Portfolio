@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#61f4ff" />
+      <stop offset="100%" stop-color="#5b8cff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Box (Optional: remove rect if you want it completely transparent) -->
+  <rect x="0" y="0" width="280" height="80" rx="16" fill="#060d1a" stroke="rgba(97, 244, 255, 0.2)" stroke-width="1.5" />
+
+  <!-- Developer Code Bracket Prefix -->
+  <text x="22" y="50" font-family="'Space Grotesk', sans-serif" font-weight="700" font-size="28" fill="#61f4ff">&lt;</text>
+
+  <!-- Brand Text: NIRAJ SAH -->
+  <text x="45" y="50" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="24" fill="#f7fbff" letter-spacing="1">
+    NIRAJ <tspan fill="url(#cyanGlow)">SAH</tspan>
+  </text>
+
+  <!-- Tech Slash Suffix -->
+  <text x="228" y="50" font-family="'Space Grotesk', sans-serif" font-weight="800" font-size="26" fill="#9b6cff">_</text>
+</svg>
