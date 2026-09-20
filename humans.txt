@@ -1,0 +1,8 @@
+/* TEAM */
+    Developer: Niraj Prasad Sah
+    Site: https://nirajprasadsah.com.np
+    Location: Chandigarh, India
+
+/* SITE */
+    Standards: HTML5, CSS3, JavaScript, Three.js
+    Software: VS Code
